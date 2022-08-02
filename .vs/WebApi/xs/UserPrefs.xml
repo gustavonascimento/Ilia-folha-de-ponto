@@ -1,0 +1,78 @@
+﻿<Properties StartupConfiguration="{F8DAA3AA-386C-40C1-A899-7BE741DD2930}|Development">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/UserService.cs">
+    <Files>
+      <File FileName="Controllers/NewAccessUserController.cs" Line="67" Column="21" />
+      <File FileName="Services/NewAccessUserService.cs" Line="52" Column="46" />
+      <File FileName="Services/UserService.cs" Line="22" Column="38" />
+      <File FileName="Entities/User.cs" Line="12" Column="26" />
+      <File FileName="Startup.cs" Line="116" Column="46" />
+      <File FileName="Program.cs" Line="10" Column="1" />
+      <File FileName="Entities/NewAccessUser.cs" Line="9" Column="27" />
+      <File FileName="Helpers/AutoMapperProfile.cs" Line="20" Column="52" />
+      <File FileName="Helpers/DataContext.cs" Line="31" Column="34" />
+      <File FileName="Helpers/AppSettings.cs" Line="1" Column="1" />
+      <File FileName="Helpers/AppException.cs" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Entities/Role.cs" Line="6" Column="41" />
+      <File FileName="Services/EmailService/AuthMessageSender.cs" Line="65" Column="23" />
+      <File FileName="Services/EmailService/IEmailSender.cs" Line="1" Column="1" />
+      <File FileName="Models/NewAccess/NewAccessUsersDto.cs" Line="7" Column="23" />
+      <File FileName="Models/NewAccess/RegisterNewAccess.cs" Line="7" Column="9" />
+      <File FileName="Entities/Message.cs" Line="8" Column="41" />
+      <File FileName="Entities/Moment.cs" Line="4" Column="18" />
+      <File FileName="Entities/Report.cs" Line="16" Column="16" />
+      <File FileName="Services/MessageService.cs" Line="19" Column="50" />
+      <File FileName="Services/MomentService.cs" Line="21" Column="32" />
+      <File FileName="Entities/Register.cs" Line="25" Column="1" />
+      <File FileName="Services/RegisterService.cs" Line="27" Column="38" />
+      <File FileName="Services/ReportService.cs" Line="46" Column="10" />
+      <File FileName="Controllers/AllocationController.cs" Line="41" Column="36" />
+      <File FileName="Controllers/UsersController.cs" Line="179" Column="1" />
+      <File FileName="Models/Users/UserModel.cs" Line="6" Column="1" />
+      <File FileName="Models/Users/UpdateModel.cs" Line="3" Column="16" />
+      <File FileName="Models/Allocations/UpdateAllocation.cs" Line="12" Column="22" />
+      <File FileName="Models/Allocations/CreateAllocationModel.cs" Line="1" Column="1" />
+      <File FileName="Services/AllocationService.cs" Line="52" Column="25" />
+      <File FileName="Helpers/DateTimeExtensions.cs" Line="9" Column="10" />
+      <File FileName="Entities/Allocation.cs" Line="6" Column="18" />
+      <File FileName="appsettings.json" Line="22" Column="18" />
+      <File FileName="appsettings.Development.json" Line="3" Column="44" />
+      <File FileName="Services/EmailService/EmailSettings.cs" Line="1" Column="1" />
+      <File FileName="Helpers/SqliteDataContext.cs" Line="1" Column="1" />
+      <File FileName="Models/Allocations/AllocationModel.cs" Line="4" Column="5" />
+      <File FileName="Models/Users/RegisterModel.cs" Line="5" Column="18" />
+      <File FileName="Controllers/MomentController.cs" Line="49" Column="38" />
+      <File FileName="Models/Moment/CreateMoment.cs" Line="12" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi" expanded="True">
+            <Node name="WebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Allocations" expanded="True" />
+                <Node name="Moment" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="UserService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
